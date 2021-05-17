@@ -1,0 +1,14 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "packages for color clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "author": "flatiron and alexandra",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
